@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Hermes Velocity",
+    "price": "$149.99",
+    "shortDescription": "Diseño aerodinámico para máxima velocidad",
+    "description": "El Hermes Velocity es un zapato diseñado para quienes buscan la máxima velocidad y rendimiento. Su diseño aerodinámico y su construcción ligera lo convierten en la opción ideal para entrenamientos de alta intensidad.",
+    "features": [
+      "Diseño aerodinámico ultraligero",
+      "Suela de tracción avanzada",
+      "Malla transpirable de alto rendimiento",
+      "Amortiguación reactiva"
+    ],
+    "image": "https://images.unsplash.com/photo-1771448802232-24721fe6b674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhdGhsZXRpYyUyMHNuZWFrZXJzJTIwd2hpdGV8ZW58MXx8fHwxNzc0MTI3Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+  },
+  {
+    "id": 2,
+    "name": "Hermes Runner Pro",
+    "price": "$169.99",
+    "shortDescription": "Amortiguación premium para largas distancias",
+    "description": "Diseñado específicamente para corredores que buscan recorrer largas distancias con el máximo confort. El Runner Pro ofrece una amortiguación premium que reduce el impacto en cada zancada.",
+    "features": [
+      "Amortiguación premium de doble densidad",
+      "Soporte de arco mejorado",
+      "Material reflectante para mayor visibilidad",
+      "Plantilla anatómica removible"
+    ],
+    "image": "https://images.unsplash.com/photo-1555972635-8a10402b49b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxydW5uaW5nJTIwc2hvZXMlMjBibHVlJTIwc3BvcnR8ZW58MXx8fHwxNzc0MTI3Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+  },
+  {
+    "id": 3,
+    "name": "Hermes Urban",
+    "price": "$129.99",
+    "shortDescription": "Estilo urbano para el día a día",
+    "description": "La combinación perfecta entre estilo y funcionalidad. El Hermes Urban está diseñado para el uso diario en la ciudad, ofreciendo comodidad durante todo el día con un look contemporáneo.",
+    "features": [
+      "Diseño urbano minimalista",
+      "Materiales premium de alta calidad",
+      "Suela de goma resistente al desgaste",
+      "Acolchado de tobillo para mayor confort"
+    ],
+    "image": "https://images.unsplash.com/photo-1767589325064-a20f42c1da11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxibGFjayUyMGF0aGxldGljJTIwc25lYWtlcnN8ZW58MXx8fHwxNzc0MTI3Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+  },
+  {
+    "id": 4,
+    "name": "Hermes Flex",
+    "price": "$139.99",
+    "shortDescription": "Flexibilidad y confort en cada movimiento",
+    "description": "Flexibilidad extrema para todos tus movimientos. El Hermes Flex se adapta a tu pie naturalmente, proporcionando libertad de movimiento sin sacrificar el soporte.",
+    "features": [
+      "Tecnología de flexión natural",
+      "Upper de material elástico",
+      "Sistema de ventilación 360°",
+      "Peso ultraligero"
+    ],
+    "image": "https://images.unsplash.com/photo-1761074974307-c4e5c51a9156?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncmVlbiUyMHNwb3J0JTIwc2hvZXMlMjBsaWZlc3R5bGV8ZW58MXx8fHwxNzc0MTI3Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+  },
+  {
+    "id": 5,
+    "name": "Hermes Sprint",
+    "price": "$159.99",
+    "shortDescription": "Explosividad y respuesta instantánea",
+    "description": "Explosividad y respuesta instantánea en cada paso. El Hermes Sprint está optimizado para entrenamientos de velocidad y sprints cortos, ofreciendo la máxima transferencia de energía.",
+    "features": [
+      "Placa propulsora de fibra de carbono",
+      "Espuma de retorno de energía",
+      "Ajuste de bloqueo para el talón",
+      "Diseño agresivo de alto rendimiento"
+    ],
+    "image": "https://images.unsplash.com/photo-1762690285055-fa80848e825b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZWQlMjBhdGhsZXRpYyUyMGZvb3R3ZWFyfGVufDF8fHx8MTc3NDEyNzI5MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+  },
+  {
+    "id": 6,
+    "name": "Hermes Classic",
+    "price": "$119.99",
+    "shortDescription": "Elegancia minimalista y atemporal",
+    "description": "Elegancia atemporal con un diseño minimalista. El Hermes Classic es perfecto para quienes valoran la simplicidad y la calidad por encima de todo.",
+    "features": [
+      "Cuero premium de alta calidad",
+      "Diseño minimalista y versátil",
+      "Suela de goma vulcanizada",
+      "Confección artesanal"
+    ],
+    "image": "https://images.unsplash.com/photo-1632765259206-2ee43d1dbfc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxncmF5JTIwc25lYWtlcnMlMjBtaW5pbWFsaXN0fGVufDF8fHx8MTc3NDEyNzI5MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+  }
+]
